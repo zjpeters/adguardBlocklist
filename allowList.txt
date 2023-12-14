@@ -13,3 +13,6 @@
 !
 !
 ||funfile.org^
+||pool.tracker.funfile.org^
+||funfile.org.lan^
+||tracker.funfile.org.lan
